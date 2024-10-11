@@ -2,7 +2,7 @@
 
 https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
-**Cool Additional reads/Research paper links:**  
+**Cool additional reads/research paper links:**  
 
 - https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0  
 - https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79  
